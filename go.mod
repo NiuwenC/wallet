@@ -1,4 +1,4 @@
-module wallet
+module hdwallet
 
 go 1.17
 
